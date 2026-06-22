@@ -1,0 +1,16 @@
+Question,Answer
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is Machine Learning?,Machine Learning enables computers to learn from data.
+What is Deep Learning?,Deep Learning uses neural networks with multiple layers.
+What is Supervised Learning?,Supervised Learning uses labeled data.
+What is Unsupervised Learning?,Unsupervised Learning finds hidden patterns in data.
+What is Reinforcement Learning?,Learning through rewards and punishments.
+What is Overfitting?,When a model performs well on training data but poorly on new data.
+What is Underfitting?,When a model fails to learn patterns from training data.
+What is a Neural Network?,A computing system inspired by the human brain.
+What is a Dataset?,A collection of data used for training and testing.
+What is Classification?,Predicting categorical outputs.
+What is Regression?,Predicting continuous values.
+What is Feature Engineering?,Process of selecting and transforming variables.
+What is NLP?,Natural Language Processing enables computers to understand human language.
+What is Computer Vision?,Enables machines to interpret images and videos.

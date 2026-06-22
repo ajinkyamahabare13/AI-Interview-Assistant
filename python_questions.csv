@@ -1,0 +1,11 @@
+Question,Answer
+What is Python?,Python is a high level interpreted programming language.
+What is a List?,A List is an ordered mutable collection in Python.
+What is a Tuple?,A Tuple is an ordered immutable collection in Python.
+What is a Dictionary?,A Dictionary stores key value pairs.
+What is a Set?,A Set is an unordered collection of unique elements.
+What is a Function?,A Function is a reusable block of code.
+What is OOP?,Object Oriented Programming organizes code using classes and objects.
+What is Inheritance?,Inheritance allows one class to inherit properties from another.
+What is Exception Handling?,Exception Handling manages runtime errors using try and except.
+What is a Lambda Function?,A Lambda Function is an anonymous function defined using lambda.

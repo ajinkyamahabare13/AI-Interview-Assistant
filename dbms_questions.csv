@@ -1,0 +1,11 @@
+Question,Answer
+What is DBMS?,A DBMS is software used to create manage and retrieve data efficiently.
+What is a Database?,A database is an organized collection of related data.
+What is a Primary Key?,A Primary Key uniquely identifies each record in a table.
+What is a Foreign Key?,A Foreign Key is an attribute that links one table to another.
+What is Normalization?,Normalization is the process of reducing data redundancy and improving data integrity.
+What is Denormalization?,Denormalization combines tables to improve query performance.
+What is SQL?,SQL is a language used to interact with databases.
+What is a Transaction?,A transaction is a logical unit of work performed on a database.
+What are ACID Properties?,ACID stands for Atomicity Consistency Isolation and Durability.
+What is a Deadlock?,A deadlock occurs when two or more transactions wait indefinitely for resources.
